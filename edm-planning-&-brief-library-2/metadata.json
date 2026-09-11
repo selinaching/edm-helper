@@ -1,0 +1,6 @@
+{
+  "name": "EDM Planning & Brief Library",
+  "description": "桌面端 EDM 资产管理、排期日历、关联产品库需求单生成及双表 Excel 导出工具。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
